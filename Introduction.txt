@@ -1,0 +1,5 @@
+This Language is proposed in 2014 August and its first version is launched in 2015 August
+Its lates version is 0.8
+high level Language
+object oriented Language
+used to make smart contracts(DApps)
