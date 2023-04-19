@@ -3,3 +3,12 @@ Its lates version is 0.8
 high level Language
 object oriented Language
 used to make smart contracts(DApps)
+It is static typed(need not to define data type of variable at the time of variable declaration), supports inheritence, libraries and complex user-defined types among other features
+applications - voting, crowdfunding,blind auction, and multi signature wallets
+
+Prerequisites -
+
+Blockchain
+Ethereum
+Any Programming Language
+ 
