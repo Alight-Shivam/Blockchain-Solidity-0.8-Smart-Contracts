@@ -1,0 +1,4 @@
+After Compilation 2 files are made - ABI and Byte code
+ABI - Abstract Binary Inteface (Communication between Accounts and Contract or Contract and Contract)
+Byte Code - code which deploys on EVM - json file
+Opcode - contains instruction 
