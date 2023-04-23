@@ -2,7 +2,6 @@
 
 pragma solidity ^0.8.0;
 
-// data types - values & references 
 
 contract functionIntro{
     uint age = 20;
