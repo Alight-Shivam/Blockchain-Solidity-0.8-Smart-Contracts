@@ -17,4 +17,4 @@ contract stateVariable{
 
 }
 
-// state variables cost some amount of gas while storinng on bloackchain so we do not create large amount of state variablaes ,only required one are created
+// state variables cost some amount of gas while storinng on bloackchain so we do not create large amount of state variables ,only required one are created
