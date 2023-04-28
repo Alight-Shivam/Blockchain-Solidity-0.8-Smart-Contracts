@@ -7,7 +7,7 @@ contract localVariable {
     bool public b;
     address public newAdd;
 
-    function fun(uint _x, bool _y, address _z) public returns {
+    function fun(uint _x, bool _y, address _z) public returns (){
         uint i = 29;
         bool b1= true;
 
