@@ -3,7 +3,7 @@
 pragma solidity ^0.8.0; 
 
 contract localVariable {
-    unit public age;
+    uint public age;
     bool public b;
     address public newAdd;
 
